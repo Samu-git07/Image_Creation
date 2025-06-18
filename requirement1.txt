@@ -1,0 +1,10 @@
+streamlit
+google-genai
+python-dotenv
+pymupdf
+python-docx
+langchain
+beautifulsoup4
+requests
+langchain-google-genai
+Pillow
